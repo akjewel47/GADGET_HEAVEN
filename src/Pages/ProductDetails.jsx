@@ -1,4 +1,3 @@
-// import screenImg from "../assets/banner.jpg";
 import { GiSelfLove } from "react-icons/gi";
 import { FaTrailer } from "react-icons/fa";
 import { FaStar } from "react-icons/fa";
@@ -21,7 +20,6 @@ const ProductDetails = () => {
       setIsFavorite(true);
     }
   }, [data, id]);
-  //   console.log(coffee.product_title)
   const {
     product_title,
     product_image,
@@ -30,8 +28,6 @@ const ProductDetails = () => {
     Specification,
     rating
   } = product;
-
-  //   Handle favorite btn click
   const handleFavorite = (product) => {
     addFavorite(product);
     setIsFavorite(true);
@@ -92,10 +88,6 @@ const ProductDetails = () => {
               className="w-[40%] bg-[#9538E2] p-2 mt-2 rounded-2xl">
                 Add To Card
                 <FaTrailer className="text-white" />
-                {/* <div className="flex items-center gap-3 text-white font-bold">
-                  Add To Card
-                  <FaTrailer className="text-white" />
-                </div> */}
               </button>
               <div className="border-2 border-gray-400 rounded-full mt-2">
                 <button className="text-2xl  font-bold p-2 flex justify-center items-center">

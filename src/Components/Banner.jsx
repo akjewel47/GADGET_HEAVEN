@@ -1,6 +1,4 @@
 import screenImg from "../assets/banner.jpg";
-
-
 const Banner = () => {
   return (
     <div className="w-[100%] mx-auto -mt-[118px]  p-4 rounded-xl">
@@ -25,9 +23,6 @@ const Banner = () => {
           alt="screenimg"
         />
       </div>
-      {/* <Heading title={"Explore Cutting-Edge Gadgets"} sub></Heading>
-      <CardContainer></CardContainer> */}
-      {/* <Outlet></Outlet> */}
     </div>
   );
 };

@@ -7,7 +7,6 @@ const MainLaoutes = () => {
     <div>
       <Navbar></Navbar>
       <div className="min-h-[calc(100vh-334px)] container mx-auto">
-        {/* daynamic section */}
         <Outlet></Outlet>
       </div>
       <Footer></Footer>
