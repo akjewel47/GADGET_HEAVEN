@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Apple MacBook Pro M2",
+      "product_image": "https://i.ibb.co.com/6XPk3nf/espresso.webp",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "Powerful MacBook Pro with M2 chip, 16GB RAM, 512GB SSD.",
+      "Specification": ["16GB RAM", "512GB SSD", "M2 Chip", "Retina Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.ibb.co.com/rRWjYrJn/download-1.jpg",
+      "category": "Laptops",
+      "price": 1799,
+      "description": "Premium Windows laptop with 4K touchscreen display.",
+      "Specification": ["32GB RAM", "1TB SSD", "Intel i9", "Touchscreen"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "product_title": "Asus ROG Strix G15",
+      "product_image": "https://i.ibb.co.com/23pqsTxn/maxresdefault.jpg",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "Gaming laptop with high refresh rate display.",
+      "Specification": ["Ryzen 9", "RTX 3060", "144Hz Display", "1TB SSD"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/xSN7mvG8/images.jpg",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "Convertible laptop with stylus support and OLED display.",
+      "Specification": ["16GB RAM", "1TB SSD", "OLED Display", "Stylus Support"],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": 5,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/gZbGSmNK/download.jpg",
+      "category": "Laptops",
+      "price": 1799,
+      "description": "Business-class ultra-lightweight laptop.",
+      "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "Carbon Fiber Build"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 6,
+      "product_title": "Razer Blade 15",
+      "product_image": "https://i.ibb.co.com/fd9dtDL9/download-1.jpg",
+      "category": "Laptops",
+      "price": 2199,
+      "description": "High-end gaming laptop with 240Hz display.",
+      "Specification": ["Intel i9", "RTX 3070", "32GB RAM", "1TB SSD"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 7,
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/LX50ZLMJ/download.jpg",
+      "category": "SmartWatches",
+      "price": 1199,
+      "description": "Flagship smartphone with 200MP camera.",
+      "Specification": ["Snapdragon 8 Gen 2", "5000mAh Battery", "S-Pen"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 8,
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://i.ibb.co.com/JjfKxLLt/download.jpg",
+      "category": "SmartWatches",
+      "price": 1299,
+      "description": "Latest iPhone with ProMotion display.",
+      "Specification": ["A16 Bionic", "48MP Camera", "120Hz OLED Display"],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": 9,
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co.com/pjTYnfPR/download.jpg",
+      "category": "Headphones",
+      "price": 399,
+      "description": "Industry-leading noise-canceling wireless headphones.",
+      "Specification": ["Bluetooth 5.2", "40mm Drivers", "Adaptive Noise Canceling"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 10,
+      "product_title": "Bose QuietComfort 45",
+      "product_image": "https://i.ibb.co.com/V0QbtdPy/download-1.jpg",
+      "category": "Headphones",
+      "price": 329,
+      "description": "Premium comfort wireless noise-canceling headphones.",
+      "Specification": ["Bluetooth 5.1", "Adaptive EQ", "24hr Battery Life"],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  
